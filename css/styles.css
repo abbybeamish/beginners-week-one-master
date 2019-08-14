@@ -1,6 +1,7 @@
 body {
   color:blue;
   font-family:arial;
+  background-image: url(../duck.jpg);
 }
 
 div {
